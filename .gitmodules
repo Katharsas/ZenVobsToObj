@@ -1,0 +1,6 @@
+[submodule "lib/tinydir"]
+	path = lib/tinydir
+	url = https://github.com/cxong/tinydir.git
+[submodule "lib/ZenLib"]
+	path = lib/ZenLib
+	url = https://github.com/Katharsas/ZenLib
